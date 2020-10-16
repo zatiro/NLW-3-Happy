@@ -1,0 +1,2 @@
+# NLW#03 | Happy
+ Na 3ª edição do NLW (Next Level Week) os meus conhecimentos e de meus colegas DEVs foram elevados de fato para o outro nível. Durante o evento, nosso desafio foi desenvolver uma aplicação voltada aos orfanatos da minha cidade, para cadastrarem informações relevantes sobre a visitação às crianças. Para isso, foram utilizadas tecnologias atuais e avançadas de desenvolvimento web e mobile como React JS, React Native, Node.JS, TypeScript entre muitos outros conceitos importantes na constante melhoria como um excelente DEV!
