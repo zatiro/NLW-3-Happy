@@ -4,3 +4,4 @@ backend/node_modules
 mobile/node_modules/**/*
 mobile/.expo/*
 mobile/.expo-shared/*
+node_modules/*
