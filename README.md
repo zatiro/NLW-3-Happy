@@ -9,9 +9,12 @@ Na 3ª edição do NLW (Next Level Week) os meus conhecimentos e de meus colegas
 - [ Express ] - Framework Back End
 - [ Expo ] - Framework e plataforma universal para aplicações em React Native
 
-## 🎨 Designs
+## 🎨 Layouts
 - [Mobile](https://www.figma.com/file/uh0OoD4hKWoYKdd9ff7IQv/Happy-Mobile-(Copy)?node-id=0%3A1)
 - [Web](https://www.figma.com/file/fLVjd9c1l7eJqJhWb5amzN/Happy-Web-(Copy)?node-id=0%3A1)
+
+## 🧠 Referências e Desafios
+- [Repositório do projeto Happy da RocketSeat por Diego Fernandes](https://github.com/rocketseat-education/nlw-03-omnistack)
 
 ## 🙏 Agradecimentos
 Minha gratidão a toda equipe da [Rocketseat](https://rocketseat.com.br/) por todos os esforços envolvidos na viabilidade do evento e na grandiosidade dos ensinamentos transmitidos com muita dedicação.
