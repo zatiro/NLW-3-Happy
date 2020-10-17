@@ -1,0 +1,1 @@
+Por que usar vários useStates para o name, about, instructions... ao invés de usar um único useState passando e setando um objeto?
